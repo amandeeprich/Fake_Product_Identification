@@ -58,7 +58,7 @@ What things you need to install the software and how to install them Installing 
 $ sudo apt-get install nodejs
 ```
 
-Installing Android Studio
+Installing [Android Studio]
 
 # Installing
 A step by step series of examples that tell you how to get a development env running
