@@ -14,4 +14,4 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/99914023/185422978-87b94952-8f0e-485f-8824-cd273d71ec3d.png">
 
 # Benefits:
-- ## By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
+- # By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
