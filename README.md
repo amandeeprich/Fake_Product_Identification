@@ -111,8 +111,8 @@ This is the geth JavaScript console. Any command with the symbol > should be typ
 ### 3. Display your Ethereum logs
 
 - Open another terminal window
-- cd * my-eth-chain
-- Type * tail -f myEth.log
+- cd my-eth-chain
+- Type tail -f myEth.log
 
 ### 4. Import/Create an Account
 
