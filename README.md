@@ -6,3 +6,6 @@ As we all know every product have there fake brand out there.  Each well known b
 
 # Problem Statement:
 Nowadays, when the supply of ingenuine products is becoming a common issue. How can the buyer recognize whether the brand and product is trustworthy or not? This affects the companies name, sales, and profit of the companies. Blockchain technology is used to identification of real products and detects fake products.
+
+# Solution Statement:
+Blockchain Technology is utilized to distinguishing proof of genuine items and identifies counterfeit items. In this Project, with arising patterns in versatile and remote innovation, Quick Response (QR) codes give a vigorous strategy to battle the act of duplicating the items. fake items are recognized utilizing a QR code scanner, where a QR code of the item is connected to a Blockchain. Thus, this framework might be utilized to store product details and created unique code of that item as blocks in the database. It gathers the unique code from the client and compares the code against entries in the Blockchain database. If the code matches, it will give a notice to the client, if not it will give the warning to the client that the item is fake.
