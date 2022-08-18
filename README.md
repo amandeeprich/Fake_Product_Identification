@@ -92,8 +92,58 @@ geth --datadir ./myDataDir init ./myGenesis.json
 
 ### 2. Start your Ethereum peer node.
 
-Networkid helps ensure the privacy of your network. You can use any number here (where we used “1114”), but other peers joining your network must use the same one.
+- Networkid helps ensure the privacy of your network. You can use any number here (where we used “1114”), but other peers joining your network must use the same one.
 
 ```
 geth --datadir ./myDataDir --networkid 1114 console 2>> myEth.log
 ```
+
+- Output should look like this:
+
+```
+Welcome to the Geth JavaScript console!
+
+instance: Geth/v1.7.3-stable-4bb3c89d/darwin-amd64/go1.8.3
+coinbase: 0xae13d41d66af28380c7af6d825ab557eb271ffff
+at block: 5 (Thu, 07 Dec 2017 17:08:48 PST)
+datadir: /Users/test/my-eth-chain/myDataDir
+modules: admin:1.0 clique:1.0 debug:1.0 eth:1.0 miner:1.0 net:1.0 personal:1.0 rpc:1.0 txpool:1.0 web3:1.0
+
+>
+```
+
+This is the geth JavaScript console. Any command with the symbol > should be typed here.
+
+### 3. Display your Ethereum logs
+
+- Open another terminal window
+- cd my-eth-chain
+- Type tail -f myEth.log
+
+### 4. Import/Create an Account
+
+- If you allocated ETH in the Genesis file, import the corresponding account by dragging the UTC file into the myDataDir/keystoredirectory and skip to step 5.
+- In the geth JavaScript console, create an account:
+
+```
+> personal.newAccount("<YOUR_PASSPHRASE>")
+```
+
+- Do not forget this passphrase! You will be typing this a lot, so for this test network you can keep it simple.
+
+### 5. Set Default Account
+
+Check your default account, type
+> eth.coinbase
+If this address is the same as the one from step 4, skip the rest of step 5.
+To set your default account, type
+> miner.setEtherbase(web3.eth.accounts[0])
+6. Start mining
+
+Check your balance with
+> eth.getBalance(eth.coinbase)
+Run
+> miner.start()
+Look at your other terminal window, you should see some mining action in the logs. Check your balance again and it should be higher.
+To end mining, type
+> miner.stop()
