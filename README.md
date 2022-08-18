@@ -30,4 +30,4 @@ Website:
 •	CSS - Style Sheet Language
 •	JavaScript - Scripting Language for web pages
 •	Bootstrap - Templating
-![image](https://user-images.githubusercontent.com/99914023/185426651-b96ab293-730b-4745-a1e1-6f52b6eb48e2.png)
+
