@@ -11,7 +11,7 @@ Nowadays, when the supply of ingenuine products is becoming a common issue. How 
 Blockchain Technology is utilized to distinguishing proof of genuine items and identifies counterfeit items. In this Project, with arising patterns in versatile and remote innovation, Quick Response (QR) codes give a vigorous strategy to battle the act of duplicating the items. fake items are recognized utilizing a QR code scanner, where a QR code of the item is connected to a Blockchain. Thus, this framework might be utilized to store product details and created unique code of that item as blocks in the database. It gathers the unique code from the client and compares the code against entries in the Blockchain database. If the code matches, it will give a notice to the client, if not it will give the warning to the client that the item is fake.
 
 # System Architecture:
-<img width="848" alt="image" src="https://user-images.githubusercontent.com/99914023/185422978-87b94952-8f0e-485f-8824-cd273d71ec3d.png">
+!<img width="848" alt="image" src="https://user-images.githubusercontent.com/99914023/185422978-87b94952-8f0e-485f-8824-cd273d71ec3d.png">
 
 # Benefits:
-"*" By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
+-## By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
