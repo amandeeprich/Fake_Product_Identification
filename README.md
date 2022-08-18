@@ -42,3 +42,12 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 - Products that have already been manufactured prior to the day this application has been established cannot be tracked.
 - At the moment, we are dependent on the company to register with our services, without which, we cannot provide information about a brand to the user.
 
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Prerequisites
+What things you need to install the software and how to install them Installing NodeJs
+
+$ sudo apt-get install nodejs
+Installing Android Studio
+
