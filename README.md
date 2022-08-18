@@ -48,6 +48,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## _Prerequisites_
 What things you need to install the software and how to install them Installing NodeJs
 
+```
 $ sudo apt-get install nodejs
+```
+
 Installing Android Studio
 
