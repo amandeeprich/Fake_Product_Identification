@@ -37,3 +37,8 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 -	JavaScript - Scripting Language for web pages
 -	Bootstrap - Templating
 
+# Restrictions:
+- The customer or user needs to have a QR code scanner in order to check the product information.
+- Products that have already been manufactured prior to the day this application has been established cannot be tracked.
+- At the moment, we are dependent on the company to register with our services, without which, we cannot provide information about a brand to the user.
+
