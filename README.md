@@ -15,3 +15,19 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 
 # Benefits:
 - By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
+
+# Built With:
+Mobile App:
+•	Android Studio - Android app
+•	NodeJS - Server Environment
+•	MySQL - Database
+Blockchain:
+•	Ethereum - Blockchain Network
+•	Solidity - Smart Contracts
+•	Ganache - Create private Ethereum blockchain to run tests
+Website:
+•	HTML - Markup language for creating web pages
+•	CSS - Style Sheet Language
+•	JavaScript - Scripting Language for web pages
+•	Bootstrap - Templating
+![image](https://user-images.githubusercontent.com/99914023/185426651-b96ab293-730b-4745-a1e1-6f52b6eb48e2.png)
