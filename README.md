@@ -17,17 +17,20 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 - By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
 
 # Built With:
-Mobile App:
+
+- # Mobile App:
 
 -	Android Studio - Android app
 -	NodeJS - Server Environment
 -	MySQL - Database
-Blockchain:
+
+- # Blockchain:
 
 -	Ethereum - Blockchain Network
 -	Solidity - Smart Contracts
 -	Ganache - Create private Ethereum blockchain to run tests
-Website:
+
+- # Website:
 
 -	HTML - Markup language for creating web pages
 -	CSS - Style Sheet Language
