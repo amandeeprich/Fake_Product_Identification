@@ -78,5 +78,7 @@ $ npm install
 
 Running the server
 
+```
 $ node server.js
+```
 
