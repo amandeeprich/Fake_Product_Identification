@@ -133,17 +133,36 @@ This is the geth JavaScript console. Any command with the symbol > should be typ
 
 ### 5. Set Default Account
 
-Check your default account, type
-> eth.coinbase
-If this address is the same as the one from step 4, skip the rest of step 5.
-To set your default account, type
-> miner.setEtherbase(web3.eth.accounts[0])
-6. Start mining
+- Check your default account, type
 
-Check your balance with
+```
+> eth.coinbase
+```
+
+- If this address is the same as the one from step 4, skip the rest of step 5.
+- To set your default account, type
+
+```
+> miner.setEtherbase(web3.eth.accounts[0])
+```
+
+### 6. Start mining
+
+- Check your balance with
+
+```
 > eth.getBalance(eth.coinbase)
-Run
+```
+
+- Run
+
+```
 > miner.start()
-Look at your other terminal window, you should see some mining action in the logs. Check your balance again and it should be higher.
-To end mining, type
+```
+
+- Look at your other terminal window, you should see some mining action in the logs. Check your balance again and it should be higher.
+- To end mining, type
+
+```
 > miner.stop()
+```
