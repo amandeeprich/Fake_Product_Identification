@@ -45,6 +45,9 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 - Products that have already been manufactured prior to the day this application has been established cannot be tracked.
 - At the moment, we are dependent on the company to register with our services, without which, we cannot provide information about a brand to the user.
 
+# Conclusion:
+To conclude, Counterfiet products are developing these days dramatically with huge number. Thus, there is strong need to identify fake products and blockchain technology is utilized to recognize counterfeit products. Besides, the data is encoded into a QR code. Customers or clients scan the QR code and afterward they can recognize the duplicate product. Digital information of products can be put away as blocks in blockchain technology.  Hence, the proposed framework is valuable for the customer to identify counterfeit items in the supply chain. Customers can scan QR codes assigned to a product and can get all the data like transaction history, current owner based on which end-user can check regardless of whether the product is certifiable or not.
+
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
