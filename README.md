@@ -60,3 +60,23 @@ $ sudo apt-get install nodejs
 
 Installing Android Studio
 
+# Installing
+A step by step series of examples that tell you how to get a development env running
+
+Cloning the repo
+
+```
+$ git clone https://github.com/kylelobo/AuthentiFi.git
+```
+
+Installing the dependencies
+
+```
+$ cd AuthentiFi
+$ npm install
+```
+
+Running the server
+
+$ node server.js
+
