@@ -192,6 +192,6 @@ To conclude, Counterfiet products are developing these days dramatically with hu
 
 # Role Description:
 
-Lead Programmer: Kinjal Ashra 
-Documentation: Amandeep Kaur Bal
-_Group collaboration occured in each area._
+- Lead Programmer: Kinjal Ashra 
+- Documentation: Amandeep Kaur Bal
+- _Group collaboration occured in each area._
