@@ -84,13 +84,13 @@ $ node server.js
 
 # Deployment
 
-## 1. Instantiate your data directory
+### 1. Instantiate your data directory
 
 ```
 geth --datadir ./myDataDir init ./myGenesis.json
 ```
 
-## 2. Start your Ethereum peer node.
+### 2. Start your Ethereum peer node.
 
 Networkid helps ensure the privacy of your network. You can use any number here (where we used “1114”), but other peers joining your network must use the same one.
 
