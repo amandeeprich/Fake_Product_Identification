@@ -44,7 +44,7 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 - Provides a secure and trusted tracking system from one end to another end.
 
 
-# Getting Started
+# Technical description
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Prerequisites
@@ -194,6 +194,6 @@ To conclude, Counterfiet products are developing these days dramatically with hu
 
 # Role Description:
 
-- Lead Programmer: Kinjal Ashra 
-- Documentation: Amandeep Kaur Bal
+- Lead Programmer: Kinjal Ashra, Amandeep kaur Bal 
+- Documentation: Amandeep Kaur Bal, Kinjal Ashra
 - _Group collaboration occured in each area._
