@@ -43,6 +43,8 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 - Not only limited to particular business can be used in many supply chain businesses.
 - Provides a secure and trusted tracking system from one end to another end.
 
+# How application will work:
+
 
 # Technical description
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
