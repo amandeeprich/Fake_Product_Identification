@@ -30,3 +30,35 @@ As we all know every product have there fake brand out there.  Each well known b
 
 # Problem Statement:
 Nowadays, when the supply of ingenuine products is becoming a common issue. How can the buyer recognize whether the brand and product is trustworthy or not? This affects the companies name, sales, and profit of the companies. Blockchain technology is used to identification of real products and detects fake products.
+
+# Solution Statement:
+Blockchain Technology is utilized to distinguishing proof of genuine items and identifies counterfeit items. In this Project, with arising patterns in versatile and remote innovation, Quick Response (QR) codes give a vigorous strategy to battle the act of duplicating the items. fake items are recognized utilizing a QR code scanner, where a QR code of the item is connected to a Blockchain. Thus, this framework might be utilized to store product details and created unique code of that item as blocks in the database. It gathers the unique code from the client and compares the code against entries in the Blockchain database. If the code matches, it will give a notice to the client, if not it will give the warning to the client that the item is fake.
+
+# System Architecture:
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/99914023/185422978-87b94952-8f0e-485f-8824-cd273d71ec3d.png">
+
+# Benefits:
+- By using Blockchain Technology, Customers or users does not depends upon third party users for confirmation for product authenticity and safety.
+- Prevents the loss in sales.
+- Not only limited to particular business can be used in many supply chain businesses.
+- Provides a secure and trusted tracking system from one end to another end.
+
+# How application will work:
+
+
+# Technical description
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+## Prerequisites
+What things you need to install the software and how to install them Installing NodeJs
+
+```
+$ sudo apt-get install nodejs
+```
+
+Installing [Android Studio](https://developer.android.com/studio/)
+
+## Installing
+A step by step series of examples that tell you how to get a development env running
+
+Cloning the repo
