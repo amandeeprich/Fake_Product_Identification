@@ -150,3 +150,53 @@ This is the geth JavaScript console. Any command with the symbol > should be typ
 
 ```
 > eth.getBalance(eth.coinbase)
+```
+
+- Run
+
+```
+> miner.start()
+```
+
+- Look at your other terminal window, you should see some mining action in the logs. Check your balance again and it should be higher.
+- To end mining, type
+
+```
+> miner.stop()
+```
+
+# Built With:
+
+ ### _Mobile App:_
+
+-	Android Studio - Android app
+-	NodeJS - Server Environment
+-	MySQL - Database
+
+ ### _Blockchain:_
+
+-	Ethereum - Blockchain Network
+-	Solidity - Smart Contracts
+-	Ganache - Create private Ethereum blockchain to run tests
+
+ ### _Website:_
+
+-	HTML - Markup language for creating web pages
+-	CSS - Style Sheet Language
+-	JavaScript - Scripting Language for web pages
+-	Bootstrap - Templating
+
+# Restrictions:
+- The customer or user needs to have a QR code scanner in order to check the product information.
+- Products that have already been manufactured prior to the day this application has been established cannot be tracked.
+- At the moment, we are dependent on the company to register with our services, without which, we cannot provide information about a brand to the user.
+
+# Conclusion:
+To conclude, Counterfiet products are developing these days dramatically with huge number. Thus, there is strong need to identify fake products and blockchain technology is utilized to recognize counterfeit products. Besides, the data is encoded into a QR code. Customers or clients scan the QR code and afterward they can recognize the duplicate product. Digital information of products can be put away as blocks in blockchain technology.  Hence, the proposed framework is valuable for the customer to identify counterfeit items in the supply chain. Customers can scan QR codes assigned to a product and can get all the data like transaction history, current owner based on which end-user can check regardless of whether the product is certifiable or not.
+
+# Role Description:
+
+- Lead Programmer: Kinjal Ashra, Amandeep kaur Bal 
+- Documentation: Amandeep Kaur Bal, Kinjal Ashra
+- _Group collaboration occured in each area._
+
