@@ -44,7 +44,7 @@ Blockchain Technology is utilized to distinguishing proof of genuine items and i
 - Provides a secure and trusted tracking system from one end to another end.
 
 # How application will work:
-
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/99914023/185826526-f6ce509d-bebb-46da-bdae-d4652b018c99.png">
 
 # Technical description
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
